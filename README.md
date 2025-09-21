@@ -30,8 +30,8 @@ It achieves **~84% accuracy** on the test set.
 
 | Image | Prediction |
 |-------|------------|
-| ![](sample_predictions/airplane.png) | airplane |
-| ![](sample_predictions/cat.png)      | cat |
-| ![](sample_predictions/ship.png)     | ship |
+| ![](sample_predictions/0_cat_predcat.png) 	| cat |
+| ![](sample_predictions/1_ship_predship.png)      | ship |
+| ![](sample_predictions/2_ship_predship.png)     | ship |
 
 ---
