@@ -33,5 +33,9 @@ It achieves **~84% accuracy** on the test set.
 | ![](sample_predictions/0_cat_predcat.png) 	| cat |
 | ![](sample_predictions/1_ship_predship.png)      | ship |
 | ![](sample_predictions/2_ship_predship.png)     | ship |
+| ![](sample_predictions/3_airplane_predship.png)     | ship |
+| ![](sample_predictions/4_frog_predfrog.png)     | frog |
+| ![](sample_predictions/5_frog_predfrog.png)     | frog |
+| ![](sample_predictions/6_automobile_predautomobile.png)     | automobile |
 
 ---
